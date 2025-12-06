@@ -51,3 +51,5 @@ with smtplib.SMTP("smtp.gmail.com", 587) as connection:
         to_addrs=to_email,
         msg=message
     )
+    
+print("Email sent successfully.")
