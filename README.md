@@ -1,1 +1,1 @@
-example-repository
+Project Edusync 
